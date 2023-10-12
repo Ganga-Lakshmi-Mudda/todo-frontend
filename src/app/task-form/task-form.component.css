@@ -1,0 +1,40 @@
+.green-header {
+  background-color: green !important;
+}
+.dark-green-header {
+  background-color: #006400;
+  color: #fff;
+}
+.full{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+.container{
+  height: 300px;
+  width: 300px;
+}
+.table{
+  margin-left: 80px;
+  height: 100%;
+  width: 75%;
+}
+button{
+  margin-right: 10px;
+}
+
+.btn-light{
+  margin-top: 20px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.form-check-input{
+  background-color: rgb(229, 227, 236);
+}
+h2{
+  align-items: center;
+  text-align: center;
+}
